@@ -48,5 +48,5 @@ git clone https://github.com/GabrielRodriguez153/Calculadora_Kotlin.git
 ````
 
 ## Contato 📧
-Desenvolvedor: Gabriel Henrique Rodrigues de Salles
-Email: gabrielh.salles@outlook.com
+- Desenvolvedor: Gabriel Henrique Rodrigues de Salles
+- Email: gabrielh.salles@outlook.com
